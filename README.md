@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @harshit9715
-- 👀 I’m interested in infrastructure building, serverless backend development and automations.
+- 👀 I’m interested in infrastructure building, serverless application development and automation (CI/CD).
 - 🌱 I’m just finished my journey to be a FullStack Dev (MERN)
 - 💞️ I’m looking to collaborate on anything
 - :scroll: I have a bunch of [professional certifications](https://www.youracclaim.com/users/harshit9715/badges):
