@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harshit9715
 - 👀 I’m interested in infrastructure building, serverless backend development and automations.
-- 🌱 I’m currently learning react to finish my journey becoming FullStack Dev (MERN)
+- 🌱 I’m just finished my journey to be a FullStack Dev (MERN)
 - 💞️ I’m looking to collaborate on anything
 - :scroll: I have a bunch of [professional certifications](https://www.youracclaim.com/users/harshit9715/badges):
   - Certified CloudBees Jenkins Engineer 2021
