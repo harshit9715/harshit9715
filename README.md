@@ -1,16 +1,19 @@
 ### Hey there :wave:, I'm Harshit
 
 <a href="https://iharshit.site">
-  <img align="left" alt="Harshit Gupta | Portfolio and Blog" width="22px" src="https://img.icons8.com/pastel-glyph/2x/website.png" />
+  <img align="left" alt="Harshit Gupta | Portfolio and Blog" src="https://img.shields.io/badge/Website-FFA500?style=for-the-badge&logo=web&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/harshit9715">
-  <img align="left" alt="Harshit Gupta | LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Harshit Gupta | LinkedIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://twitter.com/harshit9715">
-  <img align="left" alt="Harshit Gupta | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Harshit Gupta | Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=harshit9715@gmail.com">
-  <img align="left" alt="Harshit Gupta | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />
+  <img align="left" alt="Harshit Gupta | Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://t.me/iam9715">
+  <img align="left" alt="Harshit Gupta | Mail" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 <br>
 <img height=250 align="right" src="https://iharshit.site/images/avtar.gif" alt="GIF" />
