@@ -1,4 +1,4 @@
-### Hey there 🙏, I'm Harshit
+### Hey there :wave:, I'm Harshit
 
 <a href="https://iharshit.site">
   <img align="left" alt="Harshit Gupta | Portfolio and Blog" width="22px" src="https://img.icons8.com/pastel-glyph/2x/website.png" />
@@ -29,18 +29,18 @@
 ### Github Stats
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=harshit9715&show_icons=true&count_private=true&include_all_commits=true&theme=blue-green&hide=contribs" alt="GitHub stats"  height="160px"/>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=harshit9715&show_icons=true&count_private=true&include_all_commits=true&theme=blue-green&hide=contribs" alt="GitHub stats"  height="160px"/>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit9715&layout=compact&langs_count=7&theme=blue-green" alt="Most used Languages" height="160px" />
 </p>
 
 <p align="center">
-<a href="https://github.com/harshit9715/blog">
-  <img align="center" alt="Readme Card" src="https://github-readme-stats.vercel.app/api/pin/?username=harshit9715&repo=blog&theme=blue-green" />
-</a>
+  <a href="https://github.com/harshit9715/blog">
+    <img align="left" alt="Readme Card" src="https://github-readme-stats.vercel.app/api/pin/?username=harshit9715&repo=blog&theme=blue-green" />
+  </a>
 
-<a href="https://github.com/harshit9715/cdk-API-resume">
-  <img align="center" alt="Readme Card" src="https://github-readme-stats.vercel.app/api/pin/?username=harshit9715&repo=cdk-API-resume&theme=blue-green" />
-</a>
+  <a href="https://github.com/harshit9715/cdk-API-resume">
+    <img align="center" alt="Readme Card" src="https://github-readme-stats.vercel.app/api/pin/?username=harshit9715&repo=cdk-API-resume&theme=blue-green" />
+  </a>
 </p>
 
 ![](https://komarev.com/ghpvc/?username=harshit9715)
