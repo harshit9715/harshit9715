@@ -29,17 +29,17 @@
 ### Github Stats
 
 <p align="center">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=harshit9715&show_icons=true&count_private=true&include_all_commits=true&theme=blue-green&hide=contribs" alt="GitHub stats"  height="160px"/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit9715&layout=compact&langs_count=7&theme=blue-green" alt="Most used Languages" height="160px" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=harshit9715&show_icons=true&count_private=true&include_all_commits=true&theme=react&hide=contribs" alt="GitHub stats"  height="160px"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit9715&layout=compact&langs_count=7&theme=react" alt="Most used Languages" height="160px" />
 </p>
 
 <p align="center">
   <a href="https://github.com/harshit9715/blog">
-    <img align="left" alt="Readme Card" src="https://github-readme-stats.vercel.app/api/pin/?username=harshit9715&repo=blog&theme=blue-green" />
+    <img align="left" alt="Readme Card" src="https://github-readme-stats.vercel.app/api/pin/?username=harshit9715&repo=blog&theme=react" />
   </a>
 
   <a href="https://github.com/harshit9715/cdk-API-resume">
-    <img align="center" alt="Readme Card" src="https://github-readme-stats.vercel.app/api/pin/?username=harshit9715&repo=cdk-API-resume&theme=blue-green" />
+    <img align="center" alt="Readme Card" src="https://github-readme-stats.vercel.app/api/pin/?username=harshit9715&repo=cdk-API-resume&theme=react" />
   </a>
 </p>
 
