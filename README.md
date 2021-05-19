@@ -1,4 +1,4 @@
-# Hey there 🙏, I'm Harshit
+### Hey there 🙏, I'm Harshit
 
 <a href="https://iharshit.site">
   <img align="left" alt="Harshit Gupta | Portfolio and Blog" width="22px" src="https://img.icons8.com/pastel-glyph/2x/website.png" />
@@ -13,9 +13,9 @@
   <img align="left" alt="Harshit Gupta | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />
 </a>
 <br>
-<img height=250 align="right" src="https://media.giphy.com/media/jtiGPJsGGXGD9edyb9/source.gif" alt="GIF" />
+<img height=250 align="right" src="https://iharshit.site/images/avtar.gif" alt="GIF" />
 
-## About me
+### About me
 
 - 🙋‍♂️ I'm a software engineer and full stack cloud developer.
 - 🔭 I’m currently working on areas of Web Development, CICD and Cloud Backends.
