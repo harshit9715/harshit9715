@@ -1,4 +1,4 @@
-### Hey there :wave:, I'm Harshit
+### Hey there :wave:, I'm Harshit 
 
 <a href="https://iharshit.site">
   <img align="left" alt="Harshit Gupta | Portfolio and Blog" src="https://img.shields.io/badge/Website-FFA500?style=for-the-badge&logo=web&logoColor=white" />
@@ -48,7 +48,7 @@
 
 ![](https://komarev.com/ghpvc/?username=harshit9715)
 ## Languages
-
+ 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-14354C?&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?&logo=html5&logoColor=white)
