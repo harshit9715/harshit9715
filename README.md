@@ -1,5 +1,5 @@
 ### Hey there :wave:, I'm Harshit 
-
+ 
 <a href="https://iharshit.site">
   <img align="left" alt="Harshit Gupta | Portfolio and Blog" src="https://img.shields.io/badge/Website-FFA500?style=for-the-badge&logo=web&logoColor=white" />
 </a>
@@ -58,7 +58,7 @@
 ![Bash](https://img.shields.io/badge/Shell_Script-121011?&logo=gnu-bash&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?&logo=markdown&logoColor=white)
 
-### Technologies
+### Technologies 
 
 ![Node.JS](https://img.shields.io/badge/Node.js-43853D?&logo=node.js&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-000?&logo=npm)
