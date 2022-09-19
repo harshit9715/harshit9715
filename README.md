@@ -1,6 +1,6 @@
 ### Hey there :wave:, I'm Harshit 
  
-<a href="https://iharshit.site">
+<a href="https://harshit.dev">
   <img align="left" alt="Harshit Gupta | Portfolio and Blog" src="https://img.shields.io/badge/Website-FFA500?style=for-the-badge&logo=web&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/harshit9715">
