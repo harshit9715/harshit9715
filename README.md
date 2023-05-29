@@ -16,7 +16,7 @@
   <img align="left" alt="Harshit Gupta | Mail" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 <br>
-<img height=250 align="right" src="https://iharshit.site/images/avtar.gif" alt="GIF" />
+<img height=250 align="right" src="https://harshit.dev/images/avtar.gif" alt="GIF" />
 
 ### About me
 
@@ -84,6 +84,6 @@
 - Oracle Cloud Infrastructure 2019 Certified Architect Professional
 - Oracle Cloud Infrastructure Developer 2020 Certified Associate
 
-[![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](http://iharshit.site)
+[![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://harshit.dev)
 
 ![](https://hit.yhype.me/github/profile?user_id=55243567)
