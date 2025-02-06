@@ -60,8 +60,9 @@
 
 :scroll: I have a bunch of [professional certifications](https://www.youracclaim.com/users/harshit9715/badges):
 
-<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
+![AWS Solutions Architect](./.images/AWS%20Certified%20Solutions%20Architect%20Badge.png)
+![AWS Developer Associate](./.images/AWS%20Certified%20Developer%20Associate%20Badge.png)
+![AWS AI Practitioner](./.images/AWS%20Certified%20AI%20Practitioner%20Badge.png)
 
 [![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://harshit.dev)
 
