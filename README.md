@@ -21,30 +21,13 @@
 ### About me
 
 - 🙋‍♂️ I'm a software engineer and full stack cloud developer.
-- 🔭 I’m currently working on areas of Web Development, CICD and Cloud Backends.
-- 👯 I’m looking to collaborate on projects based on cloud and serverless stack.
+- 🔭 I'm currently working on areas of Web Development, CICD and Cloud Backends.
+- 👯 I'm looking to collaborate on projects based on cloud and serverless stack.
 - :wrench: I solve almost all of my problems with Python, Javascript and Bash.
 - 💬 Ask me about anything, I'm happy to help
 - 📫 Reach me on [Linkedin](https://www.linkedin.com/in/harshit9715) or drop a [mail](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=harshit9715@gmail.com).
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/harshit9715?tab=repositories)
 - ⚡ Besides programming, I enjoy time with my family and astronomy, [Alternative/Indie](https://youtube.com/playlist?list=RDb8yuTJyXWmI) music.
-
-### Github Stats
-
-<p align="center">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=harshit9715&show_icons=true&count_private=true&include_all_commits=true&theme=react&hide=contribs" alt="GitHub stats"  height="160px"/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit9715&layout=compact&langs_count=7&theme=react" alt="Most used Languages" height="160px" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/harshit9715/blog">
-    <img align="left" alt="Readme Card" src="https://github-readme-stats.vercel.app/api/pin/?username=harshit9715&repo=blog&theme=react" />
-  </a>
-
-  <a href="https://github.com/harshit9715/cdk-API-resume">
-    <img align="center" alt="Readme Card" src="https://github-readme-stats.vercel.app/api/pin/?username=harshit9715&repo=cdk-API-resume&theme=react" />
-  </a>
-</p>
 
 ![](https://komarev.com/ghpvc/?username=harshit9715)
 ## Languages
@@ -77,12 +60,8 @@
 
 :scroll: I have a bunch of [professional certifications](https://www.youracclaim.com/users/harshit9715/badges):
 
-- Certified CloudBees Jenkins Engineer 2021
-- Apache Cassandra 3 Administrator Associate Certification
-- Apache Cassandra 3 Developer Associate Certification
-- Microsoft Certified: Azure Fundamentals
-- Oracle Cloud Infrastructure 2019 Certified Architect Professional
-- Oracle Cloud Infrastructure Developer 2020 Certified Associate
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 
 [![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://harshit.dev)
 
